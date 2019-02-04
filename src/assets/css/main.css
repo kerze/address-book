@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+.nav{
+  padding: 25px 0;
+}
+.form-control.error-first-name,
+.form-control.error-last-name,
+.form-control.error-city{
+  border-color: red;
+}
+form .form-group{
+  margin-bottom: 34px;
+  position: relative
+}
+.form-group span.error{
+  font-size: 12px;
+    color: red;
+    position: absolute;
+    left: 3px;
+    font-weight: bold;
+}

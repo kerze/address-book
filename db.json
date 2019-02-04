@@ -1,0 +1,22 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "first_name": "Alexey",
+      "last_name": "Kerze",
+      "city": "Kharkov"
+    },
+    {
+      "id": 2,
+      "first_name": "Petr",
+      "last_name": "Petrov",
+      "city": "Kiev"
+    },
+    {
+      "id": 3,
+      "first_name": "Ivan",
+      "last_name": "Ivanov",
+      "city": "Odessa"
+    }
+  ]
+}
